@@ -6,7 +6,7 @@
 <li>✍🏽  I enjoy learning about Cyber Security and writing articles to share my knowledge.</li>
 <li>📫 Email me at <a href="mailto:jsmokha33@gmail.com">jsmokha33@gmail.com</a>.</li>
 </ul>
-<br>
+<hr>
 <h2 id="who-am-i">Summary</h2>
   <p><img src="https://github.com/user-attachments/assets/a1b957f2-e1a2-4925-b5be-b02b96261acd"
      align="right"
@@ -41,9 +41,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-
- 
 </p>
-
+<hr>
 
 
