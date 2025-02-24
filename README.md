@@ -1,4 +1,4 @@
-  <p><img src="https://ibb.co.com/WWv5PGKn" alt="Github Banner"></p>
+  <p><img src="https://github.com/user-attachments/assets/d694f168-4d7f-4bef-b927-a605dbed4558" alt="Github Banner"></p>
 <h2 id="who-am-i">Who am I?</h2>
 <pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#F97583"> class</span><span style="color:#B392F0"> WhoAmI</span><span style="color:#E1E4E8">:</span></span>
 <span class="line"><span style="color:#E1E4E8">   user </span><span style="color:#F97583">=</span><span style="color:#9ECBFF"> 'Jaydeep Yadav'</span></span>
