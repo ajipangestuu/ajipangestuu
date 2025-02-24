@@ -1,6 +1,12 @@
   <p><img src="https://github.com/user-attachments/assets/d694f168-4d7f-4bef-b927-a605dbed4558" alt="Github Banner"></p>
 <h2 id="who-am-i">Hi There ! </h2>
 <ul>
+  <p align="center">
+  <a href="https://github.com/shamimsikder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=6000&amp;pause=1000&amp;color=2AA889&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=On+journey+to+become+a+great+Hacker;Always+Learning+New+Things;Passionate+about+Cybersecurity;Exploring+Offensive+Security" alt="Typing SVG">
+  </a>
+</p>
+
 <li>👨🏽‍💻 Informatics Engineering student passionate about Cyber Security (Red Teaming).</li>
 <li>🌱 Currently studying at Indraprasta University (PGRI), South Jakarta, majoring in Informatics Engineering..</li>
 <li>✍🏽  I enjoy learning about Cyber Security and writing articles to share my knowledge.</li>
