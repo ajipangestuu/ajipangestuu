@@ -9,7 +9,7 @@
 </ul>
 <br>
 <h2 id="who-am-i">Summary</h2>
-  <p><img align="right" height="250px" width="500px" alt="GIF" src="https://github.com/user-attachments/assets/f0763e2c-dc79-4499-8b09-9cccec36318b"></p>
+  <p><img align="right" height="250px" width="500px" alt="GIF" src="https://github.com/user-attachments/assets/a1b957f2-e1a2-4925-b5be-b02b96261acd"></p>
 <p>
   Hi, I'm Ajipanges7! I have a strong determination to keep learning and staying up to date with the latest advancements, especially in cybersecurity. Currently, I am studying at Universitas Indraprasta (PGRI), focusing on strengthening my skills in ethical hacking, penetration testing, and security operations. My strong curiosity and willingness to explore new technologies drive me to continuously grow and contribute to the cybersecurity field. I am passionate about understanding cyber threats, securing systems, and developing strategies to enhance digital security.
 <details>
