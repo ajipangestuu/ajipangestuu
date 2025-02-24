@@ -9,3 +9,6 @@
 <li>📫 Email me at <a href="mailto:jsmokha33@gmail.com">jsmokha33@gmail.com</a>.</li>
 </ul>
 <hr>
+<h2 id="who-am-i">Summary</h2>
+
+<p>I have a strong determination to keep learning and stay up to date with the times, especially in the field of technology. Currently, I am studying at Universitas Indraprasta (PGRI). With a strong willingness and great curiosity, both serve as my main driving forces to continue growing and contributing to the IT world.</p>
