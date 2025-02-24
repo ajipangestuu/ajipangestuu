@@ -2,10 +2,9 @@
 <h2 id="who-am-i">Who am I?</h2>
 <p><strong>About Me!</strong></p>
 <ul>
-<li>👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU</li>
-<li>🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms.</li>
-<li>🤔 My interest lies in front end web development.</li>
-<li>💬 Ask me about anything, I love to answer!</li>
+<li>👨🏽‍💻 Informatics Engineering student passionate about Cyber Security (Red Teaming).</li>
+<li>🌱 Currently studying at Indraprasta University (PGRI), South Jakarta, majoring in Informatics Engineering..</li>
+<li>✍🏽  I enjoy learning about Cyber Security and writing articles to share my knowledge.</li>
 <li>📫 Email me at <a href="mailto:jsmokha33@gmail.com">jsmokha33@gmail.com</a>.</li>
 </ul>
 <hr>
@@ -25,6 +24,11 @@
 </details>
 <hr>
 <h2 id="who-am-i">Knowledge & Skills </h2>
+<p><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge&logo=metasploit&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FE7A16?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Java">
+ 
+</p>
 
 
 
