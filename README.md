@@ -23,3 +23,8 @@
 <li>Improving Knowledge in <strong>Website Development & Peneration Tester </strong></li>
 </ul>
 </details>
+<hr>
+<h2 id="who-am-i">Knowledge & Skills </h2>
+
+
+
