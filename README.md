@@ -1,4 +1,4 @@
-  <p><img src="https://github.com/user-attachments/assets/d694f168-4d7f-4bef-b927-a605dbed4558" alt="Github Banner"></p>
+  <p><img src="https://github.com/user-attachments/assets/821be3d7-91d2-45c5-a88a-c016d1a36942" alt="Github Banner"></p>
 <h2 id="who-am-i">Hi There ! </h2>
 <ul>
   <p align="center">
@@ -68,5 +68,4 @@
   </a>
 </p>
 <br> <br>
-<hr>
 
