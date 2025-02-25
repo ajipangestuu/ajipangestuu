@@ -14,7 +14,7 @@
   <li>👨🏽‍💻 Informatics Engineering student passionate about Cyber Security (Red Teaming).</li>
   <li>🌱 Currently studying at Universitas Indraprasta (PGRI), South Jakarta, majoring in Informatics Engineering.</li>
   <li>✍🏽 I enjoy learning about Cyber Security and writing articles to share my knowledge.</li>
-  <li>📫 Email me at <a href="mailto:jsmokha33@gmail.com">jsmokha33@gmail.com</a>.</li>
+  <li>📫 Email me at <a href="mailto:ajipangesstu165@gmail.com">ajipangesstu165@gmail.com</a>.</li>
 </ul>
 
 <hr>
