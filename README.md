@@ -50,7 +50,23 @@
 </p>
 <hr>
 <h2 id="who-am-i">Github Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajipangestuu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ajipangestuu's Github Stats">
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ajipangestuu&include_all_commits=true&count_private=true&show_icons=true&theme=dark">  
+</p>
+<hr>
+<div align="center">
+<h2>Connect with me!</h2>
+<p>
+  <a href="https://www.linkedin.com/in/aji-pangestu-188763277/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/notincir/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://medium.com/@ajipanges7">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+</p>
+<br> <br>
+<hr>
 
