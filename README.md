@@ -63,6 +63,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ajipangestuu&include_all_commits=true&count_private=true&show_icons=true&theme=dark" width="100%" style="max-width: 500px;">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <hr>
 
 <h2 align="center">Connect with me!</h2>
